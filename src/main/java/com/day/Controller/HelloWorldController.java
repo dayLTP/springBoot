@@ -30,6 +30,5 @@ public class HelloWorldController {
 		System.out.println("你好！ 世界！");
 		log.info("ssssssssss");
 		return "你好！ 世界！";
-		 
 	}
 }
